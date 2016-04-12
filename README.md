@@ -2,10 +2,6 @@
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
-
-####Easy Set Up#####
-
 Clone this repo, install dependencies, then run the start script.
 
 ```
